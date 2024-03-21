@@ -38,5 +38,5 @@ public class CalendarVO {
 	}
 	private String s__regdate;
 	// 추가 
+	// more
 	
-}
