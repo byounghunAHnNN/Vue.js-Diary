@@ -37,6 +37,6 @@ public class CalendarVO {
 		this.s__regdate = s__regdate;
 	}
 	private String s__regdate;
-	
+	// 추가 
 	
 }
